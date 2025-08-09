@@ -1,6 +1,6 @@
 <!-- Animated Name + Description -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Krishna+Gupta;AI/ML+Enthusiast+%7C+Web+Developer;React+%7C+Node.js+%7C+Python+%7C+JavaScript;Turning+Ideas+into+Reality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=#5b7fe4bd&center=true&vCenter=true&width=900&lines=Krishna+Gupta;AI/ML+Enthusiast+%7C+Web+Developer;React+%7C+Node.js+%7C+Python+%7C+JavaScript;Turning+Ideas+into+Reality" alt="Typing Animation" />
 </p>
 
 ---
